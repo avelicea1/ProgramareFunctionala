@@ -1,0 +1,1 @@
+Nu toate intrebarile din foldere sunt din primele 4 lab-uri. Cateva erau si din lab 5 care nu intra la test.

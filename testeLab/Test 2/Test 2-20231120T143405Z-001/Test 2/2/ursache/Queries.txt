@@ -1,0 +1,6 @@
+Q.fromHtml
+Q.has
+Q.findAll
+Q.count
+Q.each
+Q.find
